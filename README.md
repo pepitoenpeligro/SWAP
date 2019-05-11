@@ -1,6 +1,7 @@
 # Servidores Web de Altas Prestaciones
 
-### Prácticas
+
+### Prácticas
 
 | Práctica 	| Obligatoria 	| Realización 	|
 |:--------	|:---------------------------------------------------------:	|----------------------------------------------------	|
