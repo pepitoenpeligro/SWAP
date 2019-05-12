@@ -41,7 +41,7 @@ Pero a nosotros nos interesa analizar concretamente la carga web de servicios. A
 
 
 
-### Ejercicio 3. Buscar ejemplos de balanceadores software y hardware como productos comerciales.
+### Ejercicio 4. Buscar ejemplos de balanceadores software y hardware como productos comerciales.
 
 En cuanto a balanceadores software tenemos:
 1. Zevenet.
@@ -58,7 +58,7 @@ En cuanto a balanceadores hardware tenemos:
 4. Kemp Technologies.
 
 
-### Ejercicio 4. Buscar productos comerciales apra servidores de aplicaciones.
+### Ejercicio 5. Buscar productos comerciales apra servidores de aplicaciones.
 
 1. Microsoft Internet Information Services.
 2. Apache tomcat.
@@ -68,7 +68,7 @@ En cuanto a balanceadores hardware tenemos:
 6. Microsoft Azure.
 
 
-### Ejercicio 5. Buscar productos comerciales para servidores de almacenamiento.
+### Ejercicio 6. Buscar productos comerciales para servidores de almacenamiento.
 
 1. Compose. Herramienta cloud para alojar bases de datos de diferentes gestores de bases de datos. Muy utilizado en múltiples desarrollos de proyectos sobre node.js.
 2. Microsoft Azure. 

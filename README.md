@@ -38,11 +38,12 @@ A mi me ha sido muy útil para la realiación de las prácticas y es una inversi
 
 
 ### Ejercicios voluntarios
-1. [Tema 1: Introducción](https://github.com/pepitoenpeligro/SWAP/blob/master/ejercicios_voluntarios/voluntarios_t1.md)
-2. [Tema 2: Alta disponibilidad y escalabilidad en servidores web](https://github.com/pepitoenpeligro/SWAP/blob/master/ejercicios_voluntarios/voluntarios_t2.md)
-3. [Tema 3: La red de una granja web](https://github.com/pepitoenpeligro/SWAP/blob/master/ejercicios_voluntarios/voluntarios_t3.md)
-4. [Tema 4: Balanceo de carga](https://github.com/pepitoenpeligro/SWAP/blob/master/ejercicios_voluntarios/voluntarios_t4.md)
-5. [Tema 5: Medición de prestaciones](https://github.com/pepitoenpeligro/SWAP/blob/master/ejercicios_voluntarios/voluntarios_t5.md)
-6. [Tema 6: Asegurar el sistema web](https://github.com/pepitoenpeligro/SWAP/blob/master/ejercicios_voluntarios/voluntarios_t6.md)
-7. [Tema 7: Almacenamiento de datos](https://github.com/pepitoenpeligro/SWAP/blob/master/ejercicios_voluntarios/voluntarios_t7.md)
-
+| Tema                                                                                                                                                          	| Completados 	| Propuestos 	|                        Verificados                        	|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------	|:-----------:	|:----------:	|:---------------------------------------------------------:	|
+| [Tema 1: Introducción](https://github.com/pepitoenpeligro/SWAP/blob/master/ejercicios_voluntarios/voluntarios_t1.md)                                          	|      1      	|      1     	| ![](https://img.icons8.com/color/48/000000/checkmark.png) 	|
+| [Tema 2: Alta disponibilidad y escalabilidad en servidores web](https://github.com/pepitoenpeligro/SWAP/blob/master/ejercicios_voluntarios/voluntarios_t2.md) 	|      6      	|      6     	| ![](https://img.icons8.com/color/48/000000/checkmark.png) 	|
+| [Tema 3: La red de una granja web](https://github.com/pepitoenpeligro/SWAP/blob/master/ejercicios_voluntarios/voluntarios_t3.md)                              	|      2      	|      2     	| ![](https://img.icons8.com/color/48/000000/checkmark.png) 	|
+| [Tema 4: Balanceo de carga](https://github.com/pepitoenpeligro/SWAP/blob/master/ejercicios_voluntarios/voluntarios_t4.md)                                     	|      7      	|      7     	| ![](https://img.icons8.com/color/48/000000/checkmark.png) 	|
+| [Tema 5: Medición de prestaciones](https://github.com/pepitoenpeligro/SWAP/blob/master/ejercicios_voluntarios/voluntarios_t5.md)                              	|      3      	|      3     	| ![](https://img.icons8.com/color/48/000000/checkmark.png) 	|
+| [Tema 6: Asegurar el sistema web](https://github.com/pepitoenpeligro/SWAP/blob/master/ejercicios_voluntarios/voluntarios_t6.md)                               	|      4      	|      4     	| ![](https://img.icons8.com/color/48/000000/checkmark.png) 	|
+| [Tema 7: Almacenamiento de datos](https://github.com/pepitoenpeligro/SWAP/blob/master/ejercicios_voluntarios/voluntarios_t7.md)                               	|      7      	|      7     	| ![](https://img.icons8.com/color/48/000000/checkmark.png) 	|
