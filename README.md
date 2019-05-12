@@ -44,5 +44,5 @@ A mi me ha sido muy útil para la realiación de las prácticas y es una inversi
 4. [Tema 4: Balanceo de carga](https://github.com/pepitoenpeligro/SWAP/blob/master/ejercicios_voluntarios/voluntarios_t4.md)
 5. [Tema 5: Medición de prestaciones](https://github.com/pepitoenpeligro/SWAP/blob/master/ejercicios_voluntarios/voluntarios_t5.md)
 6. [Tema 6: Asegurar el sistema web](https://github.com/pepitoenpeligro/SWAP/blob/master/ejercicios_voluntarios/voluntarios_t6.md)
-7. [Tema 6: Almacenamiento de datos](https://github.com/pepitoenpeligro/SWAP/blob/master/ejercicios_voluntarios/voluntarios_t7.md)
+7. [Tema 7: Almacenamiento de datos](https://github.com/pepitoenpeligro/SWAP/blob/master/ejercicios_voluntarios/voluntarios_t7.md)
 
