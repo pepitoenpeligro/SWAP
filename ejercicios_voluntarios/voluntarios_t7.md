@@ -1,6 +1,8 @@
 # Ejercicios voluntarios Tema 7: Almacenamiento de datos
 
-## Transparencias de Clase
+
+## Transparencias de Clase
+
 
 ### Ejercicios 1. Buscar información sobre los sistemas de ficheros en red más utilizados en la actualidad y comparar sus características. Hacer una lista de ventajas e inconvenientes de todos ellos, así como grandes sistemas en los que se utilicen.
 
@@ -10,7 +12,9 @@ Este ejercicio es el tema principal de la práctica 6 (voluntaria).
 Puedes acceder a ella desde [aquí](https://github.com/pepitoenpeligro/SWAP/tree/master/practicas/p6).
 
 
-## Desde el libro
+
+## Desde el libro
+
 
 ### Ejercicio 3. ¿Qué tamaño de unidad RAID se obtendrá al configurar un RAID 0  a partir de dos discos de 100 GB y 100 GB?
 
