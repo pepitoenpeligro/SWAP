@@ -35,6 +35,7 @@ Puedes acceder a ella desde [aquí](https://github.com/pepitoenpeligro/SWAP/tree
 ### Ejercicio 3. ¿Qué tamaño de unidad RAID se obtendrá al configurar un RAID 0  a partir de dos discos de 100 GB y 100 GB?
 
 Con un sistema RAID 0, la capacidad total es:
+
 ![](https://latex.codecogs.com/gif.latex?C_{total}&space;=&space;min({C_{HDD1},&space;C_{HDD2},...,&space;C_{HDDN}})*N)
 Por lo que la capacidad será de 200 GB.
 
@@ -42,6 +43,7 @@ Por lo que la capacidad será de 200 GB.
 
 ### Ejercicio 4. ¿Qué tamaño de unidad RAID se obtendrá al configurar un RAID 0 a partir de tres discos de 200 GB cada uno?
 Con un sistema RAID 0, la capacidad total es:
+
 ![](https://latex.codecogs.com/gif.latex?C_{total}&space;=&space;min({C_{HDD1},&space;C_{HDD2},...,&space;C_{HDDN}})*N)
 Como todos los discos tienen la misma capacidad el mínimo no existe, por lo que se sustituye por el valor 200GB, de forma que al tener tres discos, la capacidad total del sistema RAID 0 sea de 600 GB.
 
@@ -49,6 +51,7 @@ Como todos los discos tienen la misma capacidad el mínimo no existe, por lo que
 ### Ejercicio 5. ¿Qué tamaño de unidad RAID se obtendrá al configurar un RAID 1 a partir de dos discos de 100 GB y 100 GB?
 
 Con un sistema RAID 1, la capacidad total es:
+
 ![](https://latex.codecogs.com/gif.latex?C_{total}&space;=&space;min({C_{HDD1},&space;C_{HDD2},...,&space;C_{HDDN}}))
 
 Por lo que la capacidad total del sistema RAID 1 será de 100GB.
@@ -58,6 +61,7 @@ Por lo que la capacidad total del sistema RAID 1 será de 100GB.
 ### Ejercicio 6. ¿Qué tamaño de unidad de RAID se obtendrá al configurar un RAID 1 a partir de tres discos de 200 GB cada uno.
 
 Con un sistema RAID 1, la capacidad total es:
+
 ![](https://latex.codecogs.com/gif.latex?C_{total}&space;=&space;min({C_{HDD1},&space;C_{HDD2},...,&space;C_{HDDN}}))
 
 Por lo que la capacidad total del sistema RAID 1 será de 200 GB.
@@ -67,7 +71,7 @@ Por lo que la capacidad total del sistema RAID 1 será de 200 GB.
 
 Con un sistema RAID 5, la capacidad total es:
 
-https://latex.codecogs.com/gif.latex?C_{total}&space;=&space;min({C_{HDD1},&space;C_{HDD2},...,&space;C_{HDDN}})*(N-1)
+![](https://latex.codecogs.com/gif.latex?C_{total}&space;=&space;min({C_{HDD1},&space;C_{HDD2},...,&space;C_{HDDN}})*(N-1))
 
 Por lo que la capacidad total del sistema RAID 5 será de 240 GB.
 
